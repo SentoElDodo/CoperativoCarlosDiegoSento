@@ -1,0 +1,5 @@
+Hemos creado un archivo en master, luego una rama personal para cada uno
+luego hemos mergeado lo de cada uno a master y lo hemos ido subiendo 
+a GitHub, cada vez antes de subirlo hacíamos un Pull para actualizar si habián
+cambios en los documentos y luego si habían daba conflicto, lo commiteamos todo
+y lo subimos.
